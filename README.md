@@ -267,7 +267,8 @@ int main() {
 
 
 ## OUTPUT
-![Screenshot 2025-05-21 090957](https://github.com/user-attachments/assets/ea9efc84-e27a-4f79-b076-51fb31528093)
+![Screenshot 2025-05-28 111725](https://github.com/user-attachments/assets/bf0a32b4-3f82-4cee-94ca-35389cdbf423)
+
 
  
 
